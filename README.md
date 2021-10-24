@@ -1,9 +1,9 @@
 # WolfAndSheep
 
 
-<font size=16>狼與羊遊戲</font>
+<h1>狼與羊遊戲
 
-<font size=12>遊戲規則</font>
+<h2>遊戲規則
 <font size=10>。每回合羊會自動找草吃，狼則會找羊吃，狗則負責趕跑狼</font>
 <font size=10>。當羊吃了三次草後，玩家會獲得金幣</font>
 <font size=10>。每回合會生成草與小羊</font>
