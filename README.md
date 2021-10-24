@@ -19,10 +19,10 @@
 <img src="https://github.com/silent717120/WolfAndSheep/blob/main/Introduce/System.png">  
   
 <h2>遊戲畫面  
-
+<p float="left">
 <img width="500" height="500" src="https://github.com/silent717120/WolfAndSheep/blob/main/Introduce/In1.gif">  
 <img width="500" height="500" src="https://github.com/silent717120/WolfAndSheep/blob/main/Introduce/In2.gif">  
-  
+ </p> 
 <h2>Astar與網格系統  
   
 <img width="500" height="500" src="https://github.com/silent717120/WolfAndSheep/blob/main/Introduce/In3.gif">  
