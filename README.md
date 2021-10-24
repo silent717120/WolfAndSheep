@@ -27,3 +27,6 @@
 <p float="left">
   <img width="500" height="500" src="https://github.com/silent717120/WolfAndSheep/blob/main/Introduce/In3.gif">  
 </p> 
+  
+<h2>執行檔載點 
+<https://drive.google.com/file/d/1zeOXxqpUpn2Iz5o9qaX9y3PEMu7NPtFs/view?usp=sharing/>  
